@@ -2,4 +2,8 @@ Esse eh meu arquivo
 Esse eh meu arquivo
 blablabla
 github
+<<<<<<< HEAD
 alterado
+=======
+mundança
+>>>>>>> aa4852fcdf9d48412af4ba891b9becbd3cd8bd07
